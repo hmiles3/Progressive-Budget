@@ -1,1 +1,2 @@
 # Progressive-Budget
+This application allows the user to track both their spending and earnings while also being able to access the app while offline. Whenever their current balance changes, the chart below will adjust to represent the changes in the amount of money in their account.
